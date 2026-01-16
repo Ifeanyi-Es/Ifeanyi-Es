@@ -19,7 +19,11 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed.               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| Isc2 cc    		|                23/12/2023              |     xxx        | 
+|Microsoft Azure Fundamentals| Jan , 2025                        |https://certificates.platform.qa.com/96197e69915b823b93f54832995ce7bd3da6a2c4.pdf|
+| Certified in Cybersecurity|                23/12/2023                      |    https://www.credly.com/badges/9394b3aa-381f-4913-9aa4-d91eca6e9dad/linked_in_profile      | 
+|M365 Office Specialist |                    Oct, 2024            |https://www.credly.com/badges/52e686ce-bae3-4771-9f82-b3ceaf97eb7b/linked_in_profile|
+|                 Datacom - Cybersecurity Job Simulation      |                   May 2025                       |https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_mxZrT9q3bfc4M5LPn_1747520634420_completion_certificate.pdf|
+
 | CompTIA Security+     |                in view       	         |     xxx        | 
 
 

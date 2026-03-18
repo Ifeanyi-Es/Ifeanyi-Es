@@ -9,7 +9,7 @@ Hi, I'm <a href="">Ifeanyi</a> and this is my Cyber Security Portfolio. I am cur
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Architecture | LogRhythm, Azure|  <a href="">SIEM</a>   |
+| Building a SIEM | Log management, Security Architecture | Wazuh|  <a href="">SIEM</a>   |
 |  Dns Zone Miscofiguration Vulnerability Lab               |           Reconnaissance & Enumeration, Dns Security and Pentesting                            |           Dig      |      <a href="https://github.com/Ifeanyi-Es/dns-zone-vulnerability">VIEW LAB</a>           |
 |                 |                                       |                 |                 |
 

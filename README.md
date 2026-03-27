@@ -11,6 +11,7 @@ Hi, I'm <a href="">Ifeanyi</a> and this is my Cyber Security Portfolio. I am cur
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Architecture | Wazuh|  <a href="">SIEM</a>   |
 |  Dns Zone Miscofiguration Vulnerability Lab               |           Reconnaissance & Enumeration, Dns Security and Pentesting                            |           Dig      |      <a href="https://github.com/Ifeanyi-Es/dns-zone-vulnerability">VIEW LAB</a>           |
+| Credit card fraud detection system | Data driven security, Threat/Anomalies detection & Analysis | python |  <a href="https://github.com/Ifeanyi-Es/ccfraud_App">VIEW CCFDS</a>   |
 |                 |                                       |                 |                 |
 
 

@@ -14,7 +14,7 @@ Hi, I'm <a href="">Ifeanyi</a> and this is my Cyber Security Portfolio. I am cur
 | Credit card fraud detection system | Data driven security, Threat/Anomalies detection & Analysis | python |  <a href="https://github.com/Ifeanyi-Es/ccfraud_App">VIEW CCFDS</a>   |
 | Secure web application | Web app dev, Web app Security | HTML, CSS, JS, BOOTSTRAP, PHP,MySQL, OWASP FRAMEWORK|  <a href="https://github.com/Ifeanyi-Es/secure-web-application">VIEW</a>   |
 | Risk Assessment |  Risk management, Policy, Documentation, Compliance and Auditing skills | Iso 27001 Framework|  <a href="">VIEW</a>   |
-| Building a SIEM | Log management, Security Architecture | Wazuh|  <a href="">SIEM</a>   |
+| Threat detection & SIEM System | Log management, Security Architecture, Documentation | Wazuh|  <a href="https://github.com/Ifeanyi-Es/Threat-detection-and-SIEM-lab">VIEW</a>   |
 |                 |                                       |                 |                 |
 
 

@@ -14,7 +14,7 @@ Hi, I'm <a href="">Ifeanyi</a> and this is my Cyber Security Portfolio. I am cur
 | Credit Card Fraud Detection System |A.I Data driven security, Threat/Anomalies detection & Analysis | Python , Docker, Streamlit |  <a href="https://github.com/Ifeanyi-Es/ccfraud_App">VIEW</a>   |
 |  Dns Zone Miscofiguration Vulnerability Lab               |           Reconnaissance & Enumeration, Dns Security and Pentesting                            |           Dig      |      <a href="https://github.com/Ifeanyi-Es/dns-zone-vulnerability">VIEW</a>           |
 | Secure web application | Web app dev, Web app Security | HTML, CSS, JS, BOOTSTRAP, PHP,MySQL, OWASP FRAMEWORK|  <a href="https://github.com/Ifeanyi-Es/secure-web-application">VIEW</a>   |
-| Risk Assessment |  Risk management, Policy, Documentation, Compliance and Auditing skills | Iso 27001 Framework|  <a href="">VIEW</a>   |
+| Risk Assessment |  Risk management, Policy, Documentation, Compliance and Auditing skills | Iso 27001 Framework|  <a href="https://github.com/Ifeanyi-Es/Risk-assessment/">VIEW</a>   |
 |                 |                                       |                 |                 |
 
 

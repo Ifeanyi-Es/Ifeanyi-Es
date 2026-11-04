@@ -28,7 +28,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 | Certified in Cybersecurity|               Dec 2023                      |  <a href="https://www.credly.com/badges/9394b3aa-381f-4913-9aa4-d91eca6e9dad/linked_in_profile">Certificate</a> | 
 |M365 Office Specialist |                    Oct 2024            |<a href="https://www.credly.com/badges/52e686ce-bae3-4771-9f82-b3ceaf97eb7b/linked_in_profile">Certificate</a>|
 |                 Datacom - Cybersecurity Job Simulation      |                   May 2025                       |<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_mxZrT9q3bfc4M5LPn_1747520634420_completion_certificate.pdf">Certificate</a>
-| CompTIA Security+     |                in view       	         |           | 
+| CompTIA Security+     |                Nov 2026    	         |           | 
 
 
 
